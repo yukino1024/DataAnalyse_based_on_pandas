@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+requests
+bf4
+fake_useragent
+openpyxl
+pymysql

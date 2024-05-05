@@ -1,0 +1,9 @@
+1、Data为爬取到的数据，运行时可以不必运行GetData.py文件。（网站链接速度慢，爬取数据需要很长时间）
+2、在AnalyseData.py和SaveData.py文件中都已引用PertreatData.py文件，无需重复运行。
+3、在运行AnalyseData.py文件中其他函数时务必先运行analyse函数，否则没有分析结果供其他函数使用。
+4、在链接数据库时务必指定好相关信息。（创建sql类时进行指定）
+5、weather.sql为存储有已获取数据的数据库文件，可以直接导入。
+6、requests.txt函数为项目所需的库。
+
+
+*本项目所获取的数据仅供学习交流使用。
