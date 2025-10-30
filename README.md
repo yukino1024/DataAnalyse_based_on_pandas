@@ -1,13 +1,14 @@
-# DataAnalyse
+# A small university course project for analyzing weather data in Qingdao, China.
 
-一个分析青岛天气的小项目
+## Overview
+This project demonstrates a basic data analysis workflow using Python:
 
-文件功能：
+GetData: Fetches historical weather data
 
-1、GetData：获取天气数据
+PertreatData: Cleans and preprocesses the raw data
 
-2、PertreatData：预处理数据
+AnalyseData: Analyzes the data and generates visualizations
 
-3、AnalyseData：分析数据并实现可视化
+SaveData: Stores the processed data into a MySQL database
 
-4、SaveData：数据存储到数据库中(MySQL)
+### Built for a Computer Science course(Data Analyse) project.
